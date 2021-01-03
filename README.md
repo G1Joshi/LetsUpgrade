@@ -8,3 +8,4 @@ LetsUpgrade - Data Structure and Algorithm Essentials
 ## 👉🏼 [Day 5](https://github.com/G1Joshi/LetsUpgrade-DSA/tree/main/Assignments/Day%205)
 ## 👉🏼 [Day 6](https://github.com/G1Joshi/LetsUpgrade-DSA/tree/main/Assignments/Day%206)
 ## 👉🏼 [Day 7](https://github.com/G1Joshi/LetsUpgrade-DSA/tree/main/Assignments/Day%207)
+## 👉🏼 [Day 8](https://github.com/G1Joshi/LetsUpgrade-DSA/tree/main/Assignments/Day%208)
